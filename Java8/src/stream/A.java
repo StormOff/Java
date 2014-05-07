@@ -57,13 +57,8 @@ public class A {
 
 	}
 
-	private static void sleepUninterrupted(long milles) {
-		try {
-			Thread.sleep(milles);
-		} catch (InterruptedException e) {
 
-		}
 
-	}
+	
 
 }
